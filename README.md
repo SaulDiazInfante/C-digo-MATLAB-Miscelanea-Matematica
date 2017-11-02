@@ -9,7 +9,7 @@ Los archivos para generar la figura del problema de pesca son:
 3. dpm.m
 
 Los archivos mencionados en 1-3 son una versión modificada de los ejemplos presentado en
-***O. Sundstrom y L. Guzzella, ((A generic dynamic programming matlab function)), en
+***O. Sundstrom y L. Guzzella, A generic dynamic programming matlab function, en
 Control Applications,(CCA) & Intelligent Control, (ISIC), 2009 IEEE, IEEE, 2009,
 1625–1630.***
 fishery.m contiene la fución para evaluar el lado derecho de la ecuación diferencial logísitca,
