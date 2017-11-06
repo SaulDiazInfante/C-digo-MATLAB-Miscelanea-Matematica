@@ -2,9 +2,10 @@ Código-MATLAB-Miscelanea-Matematica
 ======================================
 Aquí mantenemos un repostiorio con el código MATLAB utilizado para generar las figuras 
 del artículo 
+
 **"Del algoritmo de programación dinámica a los procesos Markovianos de decisión"**.
 
-Los archivos para generar la figura del Ejemplo 2.2 son:
+Los archivos para generar la Figura 2 del Ejemplo 2.2 son:
 1. fishery.m
 2. fishery_main.m
 3. dpm.m
@@ -15,14 +16,16 @@ El archivo fishery.m contiene la fución para evaluar el lado derecho de la ecua
 en fishery_main.m  se crean los archivos de datos y las graficas provicionales, dpm.m implementa una función para el 
 algoritmo de programación dinámica mencionada en la referencia. Detalles y mas ejemplos sobre la funcón dpm en [2].
 
-Para el Ejemplo 4.1, resolvemos la forma determinista presentada en [3]. 
+Para la Figura 3 del Ejemplo 4.1, resolvemos la forma determinista presentada en [3]. 
 
-La carpeta "Funciones" contiene la función objetivo a optimizar y un 
-método de optimización de búsqueda exhaustiva (fuerza bruta).
+La carpeta "EjemploLago" contiene 
+1. FiguraLago.m
+2. BruteForceMax1D.m
+3. fob.m
 
-El archivo "FiguraLago.m" resuelve la ecuación de Bellman para el 
-ejemplo citado.
-
+El archivo FiguraLago.m genera los datos de la Figura 3, fob.m contiene la función objetivo a optimizar y en
+BruteForceMax1D.m implementamos un método de optimización de búsqueda exhaustiva (fuerza bruta). El archivo 
+"FiguraLago.m" resuelve la ecuación de Bellman para el ejemplo citado.
 El código esta pensado para tener una fácil traducción al lenguaje C.
 
 
