@@ -33,6 +33,7 @@ Control Applications,(CCA) & Intelligent Control, (ISIC), 2009 IEEE, IEEE, 2009,
 1625–1630.***
 
 ***[2] http://www.idsc.ethz.ch/research-guzzella-onder/downloads.html***
+
 ***[3] W. D. Dechert y S. O’Donnell, «The stochastic lake game: A numerical 
 solution», Journal of Economic Dynamics and Control, vol. 30, núm. 9, 
 2006, 1569–1587.***
