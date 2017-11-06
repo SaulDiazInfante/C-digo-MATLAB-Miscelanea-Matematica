@@ -15,7 +15,7 @@ El archivo fishery.m contiene la fución para evaluar el lado derecho de la ecua
 en fishery_main.m  se crean los archivos de datos y las graficas provicionales, dpm.m implementa una función para el 
 algoritmo de programación dinámica mencionada en la referencia. Detalles y mas ejemplos sobre la funcón dpm en [2].
 
-Para el Ejemplo 4.1, resolvemos la forma determinista presentada en[3]. 
+Para el Ejemplo 4.1, resolvemos la forma determinista presentada en [3]. 
 
 La carpeta "Funciones" contiene la función objetivo a optimizar y un 
 método de optimización de búsqueda exhaustiva (fuerza bruta).
